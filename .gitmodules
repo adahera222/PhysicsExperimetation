@@ -1,0 +1,3 @@
+[submodule "Assets/ThirdParty/BaseFramework"]
+	path = Assets/ThirdParty/BaseFramework
+	url = https://joe_legrice@bitbucket.org/joe_legrice/baseframework.git
